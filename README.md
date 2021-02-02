@@ -11,7 +11,7 @@ AutoML experiment
 ![dataset](./dataset.PNG) 
 
 2. Run autoML experiment 
-![automl-experiment](./automl-experiment.png) 
+![automl-experiment](./automl-experiment.PNG) 
 
 3. Obtain the best model for analysis.
 ![best-model](./best-model.png) 
