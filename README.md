@@ -11,6 +11,7 @@ AutoML experiment
 ![dataset](./dataset.PNG) 
 
 2. Run autoML experiment 
+![automl-experiment](./automl-experiment.PNG) 
 
 
 ## Screen Recording
