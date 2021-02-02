@@ -1,7 +1,3 @@
-
-*NOTE:* This file is a template that you can use to create the README for your project. The *TODO* comments below will highlight the information you should be sure to include.
-
-
 # Operationalizing Machine Learning
 In this project we use the Bank Marketing dataset. We are using Python SDK and Azure ML Studio 
 
