@@ -14,7 +14,7 @@ AutoML experiment
 ![automl-experiment](./automl-experiment.PNG) 
 
 3. Obtain the best model for analysis.
-![best-model](./best-model.png) 
+![best-model](./best-model.PNG) 
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
