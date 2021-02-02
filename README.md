@@ -8,7 +8,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ## Key Steps
 AutoML experiment
 1. Upload the dataset
-![bankmarketingdataset](./dataset.png) 
+![dataset](./dataset.PNG) 
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
