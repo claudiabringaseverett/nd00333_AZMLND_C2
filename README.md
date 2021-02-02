@@ -17,6 +17,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![best-model](./best-model.PNG) 
 
 ### 2. Deploy
+![deployment](./deployment.PNG) 
 
 
 ## Screen Recording
