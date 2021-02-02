@@ -6,7 +6,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![architectdiagram](./flowchart.png) 
 
 ## Key Steps
-AutoML experiment
+### 1. AutoML experiment
 1. Upload the dataset
 ![dataset](./dataset.PNG) 
 
@@ -15,6 +15,9 @@ AutoML experiment
 
 3. Obtain the best model for analysis.
 ![best-model](./best-model.PNG) 
+
+### 2. Deploy
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
