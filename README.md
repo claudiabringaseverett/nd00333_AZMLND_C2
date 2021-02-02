@@ -10,6 +10,9 @@ AutoML experiment
 1. Upload the dataset
 ![dataset](./dataset.PNG) 
 
+2. Run autoML experiment 
+
+
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
 
