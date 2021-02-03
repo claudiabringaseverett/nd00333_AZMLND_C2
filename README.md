@@ -24,7 +24,7 @@ In this step, we enabled application insights to monitor the deployed model usin
 ![app-insights](./app-insights.PNG) 
 
 Then, check the logs.py after running python.py
-![logs](./logs.PNG) 
+![logs](./logs.png) 
 
 
 
