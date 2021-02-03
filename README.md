@@ -29,6 +29,7 @@ Then, check the logs.py after running python.py
 Finally, Application Insights dashboard is displayed.
 ![app-dashboard](./app-dashboard.png) 
 
+### 4. Swagger Documentation
 
 
 
