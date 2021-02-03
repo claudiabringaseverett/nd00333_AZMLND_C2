@@ -19,6 +19,9 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ### 2. Deploy
 ![deployment](./deployment.PNG) 
 
+### 3. Enable Logging
+![app-insights](./app-insights.PNG) 
+
 
 ## Screen Recording
 *TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
