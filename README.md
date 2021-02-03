@@ -26,6 +26,10 @@ In this step, we enabled application insights to monitor the deployed model usin
 Then, check the logs.py after running python.py
 ![logs](./logs.png) 
 
+Finally, Application Insights dashboard is displayed.
+![app-dashboard](./app-dashboard.png) 
+
+
 
 
 
