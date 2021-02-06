@@ -32,6 +32,8 @@ Finally, Application Insights dashboard is displayed.
 ![app-dashboard](./app-dashboard.png) 
 
 ### 4. Swagger Documentation
+First, we have to download swagger.json file from the down
+
 
 
 
