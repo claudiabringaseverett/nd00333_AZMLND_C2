@@ -19,7 +19,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![best-model-1](./best-model-1.png) 
 
 ### 2. Deploy
-![deployment](./deployment.PNG) 
+![deployment](./deployment.png) 
 
 ### 3. Enable Logging
 In this step, we enabled application insights to monitor the deployed model using Azure Container Instance. In the logs.py, we enable the application insights. We can see that the application was enabled.
