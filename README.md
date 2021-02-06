@@ -14,9 +14,9 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![automl-experiment](./automl-experiment.png) 
 
 3. Obtain the best model for analysis.
-![best-model-1](./best-model-1.png) 
-
 ![best-model](./best-model.png) 
+
+![best-model-1](./best-model-1.png) 
 
 ### 2. Deploy
 ![deployment](./deployment.PNG) 
