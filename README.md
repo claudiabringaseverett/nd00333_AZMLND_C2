@@ -43,7 +43,7 @@ Then, we obtain GET request
 Post Request
 
 
-### 5. 
+### 5. Consume Model endpoint
 
 When we enabled authentication when the model was deployed, then it generated keys and REST endpoint url. We use one of the keys to update endpoint.py file.
 
