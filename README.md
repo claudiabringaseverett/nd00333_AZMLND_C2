@@ -6,8 +6,8 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 
 ## Table of Contents
 - [Key Steps](#Key-Steps)
-  - [AutoML experiment](#AutoML-experiment)
-  - [Deploy Best Model](#Deploy-Best-Model)
+  1. [AutoML experiment](#AutoML-experiment)
+  2. [Deploy Best Model](#Deploy-Best-Model)
 
 ## Key Steps
 ### 1. AutoML experiment
