@@ -6,11 +6,11 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 
 ## Table of Contents
 - [Key Steps](#Key-Steps)
-  1. [AutoML experiment](#AutoML-experiment)
-  2. [Deploy Best Model](#Deploy-Best-Model)
+  - [AutoML experiment](#AutoML-experiment)
+  - [Deploy Best Model](#Deploy-Best-Model)
 
 ## Key Steps
-### 1. AutoML experiment
+### AutoML experiment
 1. Upload the dataset
 ![dataset](./dataset.PNG) 
 
@@ -22,7 +22,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 
 ![best-model-1](./best-model-1.png) 
 
-### 2. Deploy Best Model
+### Deploy Best Model
 ![deployment](./deployment.png) 
 
 ### 3. Enable Logging Application Insights
