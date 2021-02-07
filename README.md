@@ -11,6 +11,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
   - [Enable Logging Application Insights](#Enable-Logging-Application-Insights)
   - [Build Swagger Documentation](#Build-Swagger-Documentation)
   - [Consume Model Endpoint](#Consume-Model-Endpoint)
+  - [Create and Build a Pipeline](#Create-and-Build-a-Pipeline)
 - [Screen Recording](#Screen-Recording)
 - [Standout Suggestions](#Standout-Suggestions)
 
@@ -64,6 +65,7 @@ After that, we benchmark the deployed endpoint.
 Last, we run the aml pipelines notebook 
 
 
+### Create and Build a Pipeline
 
 
 
