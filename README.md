@@ -5,8 +5,8 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![architectdiagram](./flowchart.png) 
 
 ## Table of Contents
-- [AutoML experiment](#automl-experiment)
-- [Deploy](#deploy)
+- [AutoML experiment](#AutoML-experiment)
+- [Deploy Best Model](#Deploy-Best-Model)
 
 ## Key Steps
 ### 1. AutoML experiment
@@ -21,7 +21,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 
 ![best-model-1](./best-model-1.png) 
 
-### 2. Deploy
+### 2. Deploy Best Model
 ![deployment](./deployment.png) 
 
 ### 3. Enable Logging Application Insights
