@@ -5,8 +5,9 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ![architectdiagram](./flowchart.png) 
 
 ## Table of Contents
-- [AutoML experiment](#AutoML-experiment)
-- [Deploy Best Model](#Deploy-Best-Model)
+- [Key Steps](#Key-Steps)
+  - [AutoML experiment](#AutoML-experiment)
+  - [Deploy Best Model](#Deploy-Best-Model)
 
 ## Key Steps
 ### 1. AutoML experiment
