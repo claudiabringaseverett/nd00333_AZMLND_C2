@@ -31,7 +31,7 @@ Then, check the logs.py after running python.py
 Finally, Application Insights dashboard is displayed.
 ![app-dashboard](./app-dashboard.png) 
 
-### 4. Swagger Documentation
+### 4. Build Swagger Documentation
 In order for us to use endpoints, we need to use Swagger which runs in the local machine by downloading Docker images and then we run it in port 9000. 
 
 
