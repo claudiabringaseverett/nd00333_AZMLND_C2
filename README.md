@@ -32,7 +32,27 @@ Finally, Application Insights dashboard is displayed.
 ![app-dashboard](./app-dashboard.png) 
 
 ### 4. Swagger Documentation
-First, we have to download swagger.json file from the down
+In order for us to use endpoints, we need to use Swagger which runs in the local machine by downloading Docker images and then we run it in port 9000. 
+
+
+
+Then, we obtain GET request
+
+
+
+Post Request
+
+
+### 5. 
+
+When we enabled authentication when the model was deployed, then it generated keys and REST endpoint url. We use one of the keys to update endpoint.py file.
+
+
+
+After that, we benchmark the deployed endpoint.
+
+
+Last, we run the aml pipelines notebook 
 
 
 
