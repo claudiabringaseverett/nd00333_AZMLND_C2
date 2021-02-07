@@ -8,6 +8,11 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 - [Key Steps](#Key-Steps)
   - [AutoML experiment](#AutoML-experiment)
   - [Deploy Best Model](#Deploy-Best-Model)
+  - [Enable Logging Application Insights](#Enable-Logging-Application-Insights)
+  - [Build Swagger Documentation](#Build-Swagger-Documentation)
+  - [Consume Model Endpoint](#Consume-Model-Endpoint)
+- [Screen Recording](#Screen-Recording)
+- [Standout Suggestions](#Standout-Suggestions)
 
 ## Key Steps
 ### AutoML experiment
@@ -25,7 +30,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ### Deploy Best Model
 ![deployment](./deployment.png) 
 
-### 3. Enable Logging Application Insights
+### Enable Logging Application Insights
 In this step, we enabled application insights to monitor the deployed model using Azure Container Instance. In the logs.py, we enable the application insights. We can see that the application was enabled.
 ![app-insights](./app-insights.PNG) 
 
@@ -35,7 +40,7 @@ Then, check the logs.py after running python.py
 Finally, Application Insights dashboard is displayed.
 ![app-dashboard](./app-dashboard.png) 
 
-### 4. Build Swagger Documentation
+### Build Swagger Documentation
 In order for us to use endpoints, we need to use Swagger which runs in the local machine by downloading Docker images and then we run it in port 9000. 
 
 
@@ -47,7 +52,7 @@ Then, we obtain GET request
 Post Request
 
 
-### 5. Consume Model endpoint
+### Consume Model Endpoint
 
 When we enabled authentication when the model was deployed, then it generated keys and REST endpoint url. We use one of the keys to update endpoint.py file.
 
