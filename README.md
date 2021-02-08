@@ -92,7 +92,7 @@ The screenshot below shows the details about the completed pipeline including th
 
 ## Screen Recording
 
-Link for screen recording 
+Link for screen recording https://youtu.be/tbMypRVa5sc
 
 ## Standout Suggestions
 - Since we are dealing with imbalanced dataset, we can try to use methods like under-sampling because it reduces the size of the abundant class and oversampling   
