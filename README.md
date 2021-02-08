@@ -46,7 +46,7 @@ Finally, Application Insights dashboard is displayed.
 ### Build Swagger Documentation
 In order for us to use endpoints, we need to use Swagger which runs in the local machine by downloading Docker images and then we run it in port 9000. 
 
-
+![swagger-1](./swagger-1.png)
 
 Then, we obtain GET request
 
