@@ -18,7 +18,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 ## Key Steps
 ### AutoML experiment
 1. Upload the dataset
-![dataset](./dataset.PNG) 
+![dataset](./dataset.png) 
 
 2. Run autoML experiment 
 ![automl-experiment](./automl-experiment.png) 
