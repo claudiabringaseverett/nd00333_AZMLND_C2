@@ -54,6 +54,9 @@ Then, we obtain GET request
 
 Post Request
 
+![swagger-2](./swagger-2.png)
+
+![swagger-2-1](./swagger-2-1.png)
 
 ### Consume Model Endpoint
 
