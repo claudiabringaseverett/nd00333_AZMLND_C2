@@ -61,7 +61,7 @@ Post Request
 ### Consume Model Endpoint
 
 When we enabled authentication when the model was deployed, then it generated keys and REST endpoint url. We use one of the keys to update endpoint.py file.
-
+![endpoint](./endpoint.png)
 
 
 After that, we benchmark the deployed endpoint.
