@@ -80,10 +80,14 @@ On the endpoints section in Azure studio, we can see details of the pipeline.
 
 ![pipeline-1](./pipeline-1.png)
 
+#### Pipeline Run from RunDetails widget in Jupyter Notebook
+We can see run widget that gives us information related to the pipeline run. It is one of the way you can track the process of the pipelines from the notebook without having to naviagate to the azure studio.
+
+
 #### Completed Pipeline and Endpoint
 The screenshot below shows the details about the completed pipeline including the rest endpoint.
 
-![pipeline-2](./pipeline-2.png)
+![pipeline-3](./pipeline-3.png)
 
 
 ## Screen Recording
