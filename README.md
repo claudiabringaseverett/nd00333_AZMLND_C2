@@ -67,6 +67,9 @@ When we enabled authentication when the model was deployed, then it generated ke
 After that, we benchmark the deployed endpoint.
 ![benchmark](./benchmark.png)
 
+![benchmark-2](./benchmark-2.png)
+![benchmark-2.1](./benchmark-2.1.png)
+
 
 Last, we run the aml pipelines notebook 
 
