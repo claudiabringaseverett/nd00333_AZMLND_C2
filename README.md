@@ -95,7 +95,7 @@ The screenshot below shows the details about the completed pipeline including th
 Link for screen recording 
 
 ## Standout Suggestions
-- Since we are dealing with imbalanced dataset, we can try to use methods like under-sampling because it reduces the size of the abundant class and oversampling     
+- Since we are dealing with imbalanced dataset, we can try to use methods like under-sampling because it reduces the size of the abundant class and oversampling   
   because it tries to balance dataset by increasing the size of rare samples.
 - In order to expedite the training process, we can use a GPU cluster instead of the CPU cluster so the autoML experiment runs faster.
 - We could deploy the best model with Azure Kubernetes Service (AKS) for high scalable production deployment.
