@@ -35,7 +35,7 @@ Next, we deploy the best model which in this case it's voting Ensemble
 
 ### Enable Logging Application Insights
 In this step, we enabled application insights to monitor the deployed model using Azure Container Instance. In the logs.py, we enable the application insights. We can see that the application was enabled.
-![app-insights](./app-insights.PNG) 
+![app-insights](./app-insights.png) 
 
 Then, check the logs.py after running python.py
 ![logs](./logs.png) 
