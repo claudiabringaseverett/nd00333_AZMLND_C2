@@ -76,7 +76,8 @@ Last, we run the aml pipelines notbook. In this step, use jupyter notebook to cr
 ![pipeline](./pipeline.png)
 
 Pipeline endpoint
-On the endpoints section in Azure studio, we details of the pipeline.
+On the endpoints section in Azure studio, we can see details of the pipeline.
+
 ![pipeline-1](./pipeline-1.png)
 
 Completed Pipeline and Endpoint
