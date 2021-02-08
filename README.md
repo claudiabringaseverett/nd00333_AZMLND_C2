@@ -71,15 +71,23 @@ After that, we benchmark the deployed endpoint.
 ![benchmark-2.1](./benchmark-2.1.png)
 
 
-Last, we run the aml pipelines notebook 
-
-
 ### Create and Build a Pipeline
+Last, we run the aml pipelines notbook. In this step, use jupyter notebook to create, publish and consume a pipeline. On the image below, we can see the azureML pipeline was completed.
+![pipeline](./pipeline.png)
 
+Pipeline endpoint
+On the endpoints section in Azure studio, we details of the pipeline.
+![pipeline-1](./pipeline-1.png)
+
+Completed Pipeline and Endpoint
+The screenshot below shows the details about the completed pipeline including the rest endpoint.
+
+![pipeline-2](./pipeline-2.png)
 
 
 ## Screen Recording
 
+Link for screen recording 
 
 ## Standout Suggestions
 - Since we are dealing with imbalanced dataset, we can try to use methods like under-sampling because it reduces the size of the abundant class and oversampling     
