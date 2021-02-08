@@ -50,7 +50,7 @@ In order for us to use endpoints, we need to use Swagger which runs in the local
 
 Then, we obtain GET request
 
-
+![swagger-3](./swagger-3.png)
 
 Post Request
 
