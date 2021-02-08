@@ -20,7 +20,7 @@ In this project we use the Bank Marketing dataset. First, we are using Python SD
 1. Upload the dataset
 ![dataset](./dataset.png) 
 
-2. Run autoML experiment 
+2. Run autoML experiment. After 30 minutes, it created the autoML run with the best performing model.
 ![automl-experiment](./automl-experiment.png) 
 
 3. Obtain the best model for analysis.
@@ -70,7 +70,10 @@ Last, we run the aml pipelines notebook
 
 
 ## Screen Recording
-*TODO* Provide a link to a screen recording of the project in action. Remember that the screencast should demonstrate:
+
 
 ## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
+- Since we are dealing with imbalanced dataset, we can try to use methods like under-sampling because it reduces the size of the abundant class and oversampling     
+  because it tries to balance dataset by increasing the size of rare samples.
+- In order to expedite the training process, we can use a GPU cluster instead of the CPU cluster so the autoML experiment runs faster.
+- We could deploy the best model with Azure Kubernetes Service (AKS) for high scalable production deployment.
